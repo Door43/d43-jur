@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jur:home|Door43 (jur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jur|d43-jur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jur/archive/master.zip|d43-jur.zip]]
+
+**Recent Changes**
+{{changes>ns = jur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jur|Ethnologue data]]
+
